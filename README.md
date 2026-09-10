@@ -24,15 +24,15 @@
 
 ###
 
-<h6 data-importer="text" align="right">Social Links</h6>
+<h6 data-importer="text" align="center">Social Links</h6>
 
 ###
 
-<div data-importer="socials" align="right">
+<div data-importer="socials" align="center">
   <a href="giannidylancbhg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/giannidylan" target="_blank">
+  <a href="https://www.linkedin.com/in/giannidylan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
 </div>
