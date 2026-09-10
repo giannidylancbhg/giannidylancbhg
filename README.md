@@ -1,18 +1,18 @@
-<h1 data-importer="text" align="center">Hi I'm Gianni Dylan</h1>
+<h1 data-importer="text" align="left">Hello there👋, I'm Gianni Dylan</h1>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
 
-<h2 data-importer="text" align="center">Tools:</h2>
+<h2 data-importer="text" align="left">Tools:</h2>
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
