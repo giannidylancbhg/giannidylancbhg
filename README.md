@@ -2,6 +2,10 @@
 
 ###
 
+<p data-importer="text" align="left">🌱 I’m currently learning Front-End Development<br>💻 I’m interested in building clean and user-friendly websites<br>🚀 I’m working on improving my coding skills and creating projects<br>📚 Always learning, always building</p>
+
+###
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&section=header&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
