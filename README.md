@@ -8,6 +8,12 @@
 
 ###
 
+<div data-importer="profile-views" align="right">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=giannidylancbhg.giannidylancbhg&right_color=black"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">Technology Stack</h2>
 
 ###
@@ -29,9 +35,6 @@
 ###
 
 <div data-importer="socials" align="right">
-  <a href="mailto:giannidylancbhg@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/giannidylan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
