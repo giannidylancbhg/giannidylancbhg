@@ -8,13 +8,6 @@
 
 ###
 
-<div data-importer="socials" align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">Technology Stack</h2>
 
 ###
@@ -27,6 +20,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo"  />
+</div>
+
+###
+
+<h6 data-importer="text" align="right">Social Links</h6>
+
+###
+
+<div data-importer="socials" align="right">
+  <a href="giannidylancbhg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/giannidylan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
