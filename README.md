@@ -12,6 +12,12 @@
 
 ###
 
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=giannidylancbhg.giannidylancbhg&right_color=black"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">Technology Stack</h2>
 
 ###
