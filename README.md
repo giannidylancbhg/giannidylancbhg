@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hello there👋, I'm Gianni Dylan</h1>
+<h1 data-importer="text" align="left">Hello there, I'm Gianni Dylan</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tools:</h2>
+<h2 data-importer="text" align="left">Technology Stack</h2>
 
 ###
 
@@ -20,6 +20,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="www.linkedin.com/in/giannidylan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="giannidylancbhg@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
